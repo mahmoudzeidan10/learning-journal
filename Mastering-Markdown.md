@@ -6,26 +6,30 @@ it let you turn github repositories to an elegent Website.
 ```javascript
 to make headings >> Use # text, ## text, ### text
 ```
+
 ```javascript
 to emphasis italic >> Use *text*
 ```
 ```javascript
-
-```javascript
 to emphasis bold >> Use **text**
 ```
+
 ```javascript
 to made Order List >> Type 1-Text, 2- Text.
 ```
+
 ```javascript
 to made UnOrder List >> Type -Text, - Text.
 ```
+
 ```javascript
 to made Link >> [Text](url)
 ```
+
 ```javascript
 to use image >> ![Text](url)
 ```
+
 ```javascript
 To create  task list
 - [ ] Male
