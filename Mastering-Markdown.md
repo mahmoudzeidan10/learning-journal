@@ -4,15 +4,15 @@
 it let you turn github repositories to an elegent Website.
 ### The text can be formated using mark down:
 ```javascript
-to make headings >> Use #, ##, ###
+to make headings >> Use # text, ## text, ### text
 ```
 ```javascript
-to emphasis italic >> Use * *
+to emphasis italic >> Use *text*
 ```
 ```javascript
 
 ```javascript
-to emphasis bold >> Use ** **
+to emphasis bold >> Use **text**
 ```
 ```javascript
 to made Order List >> Type 1-Text, 2- Text.
