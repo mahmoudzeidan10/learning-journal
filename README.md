@@ -5,8 +5,8 @@
 ### Table Of Contents
 | Page                         | Link         |
 | :-------------               | :----------: |
-|Mastering Markdown            |[Mastering-Markdown](https://mahmoudzeidan10.github.io/learning-journal/Mastering-Markdown)
-|Structure web pages wth HTML  | [Structure web pages wth HTML](https://mahmoudzeidan10.github.io/learning-journal/Structure-web-pages-HTML)
+|Mastering Markdown            | [Mastering-Markdown](https://mahmoudzeidan10.github.io/learning-journal/Mastering-Markdown)
+|Structure web pages with HTML | [Structure web pages with HTML](https://mahmoudzeidan10.github.io/learning-journal/Structure-web-pages-HTML)
 | Version-Control              | [Version-Control](https://mahmoudzeidan10.github.io/learning-journal/Version-Control)  
 
 
