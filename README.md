@@ -8,10 +8,8 @@
 |1            | [Mastering-Markdown](https://mahmoudzeidan10.github.io/learning-journal/Mastering-Markdown)
 |2            | [Structure web pages with HTML](https://mahmoudzeidan10.github.io/learning-journal/Structure-web-pages-HTML)
 | 3           | [Version-Control](https://mahmoudzeidan10.github.io/learning-journal/Version-Control)  
-| 4               | :----------: |
-
-
-
+| 4               | [Web with CSS](https://mahmoudzeidan10.github.io/learning-journal/Design-web-css) |
+| 5               | [Dynamic web pages with JavaScript](https://mahmoudzeidan10.github.io/learning-journal/Dynamic-Webpage-js)] |
 
 ### Grouth Mindset
 ![Grouth Mindset](https://penstripe.co.uk/wp-content/uploads/2019/09/1.png)
