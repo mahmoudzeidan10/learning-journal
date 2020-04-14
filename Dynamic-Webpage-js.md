@@ -17,5 +17,8 @@ Javascript is like a behavior layer, where we can change how the page behaves an
 **JavaScript is written as plain text,  like HTML and CSS**  
 So, When we want to use JavaScript with a web page, we use the HTML
 script element to tell the browser it is coming across a script.
-Its s re attribute tells people where the JavaScript file is stored.
+Its s re attribute tells people where the JavaScript file is stored.  
+Also, we learn PLACING THE SCRIPT IN THE PAGE,You may see JavaScript in the HTML between
+opening ***script*** and closing ***script*** tags (but it is better to put scripts in their own files).  
+
 

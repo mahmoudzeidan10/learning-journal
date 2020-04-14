@@ -2,13 +2,13 @@
 [My Github Profile](https://github.com/mahmoudzeidan10)
 ## My Name is Mahmoud Zeidan. I studied Civil Engineering at Yarmouk University, I Graduated in Sep 2019 and iam eager to learn software development because programming is the languge of the future, so i  can learn new skill and change my career path.
 
-### Table Of Contents
+### WEB PAGE Contents
 | Page                         | Link         |
 | :----------:                 | :----------: |
-|Mastering Markdown            | [Mastering-Markdown](https://mahmoudzeidan10.github.io/learning-journal/Mastering-Markdown)
-|Structure web pages with HTML | [Structure web pages with HTML](https://mahmoudzeidan10.github.io/learning-journal/Structure-web-pages-HTML)
-| Version-Control              | [Version-Control](https://mahmoudzeidan10.github.io/learning-journal/Version-Control)  
-
+|1            | [Mastering-Markdown](https://mahmoudzeidan10.github.io/learning-journal/Mastering-Markdown)
+|2            | [Structure web pages with HTML](https://mahmoudzeidan10.github.io/learning-journal/Structure-web-pages-HTML)
+| 3           | [Version-Control](https://mahmoudzeidan10.github.io/learning-journal/Version-Control)  
+| 4               | :----------: |
 
 
 

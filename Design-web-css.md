@@ -35,5 +35,9 @@ enough contrast for the text to be legible.
 of text on your page then it can make it harder to read.
 - Medium Contrast: its like using dark gray text on a white
 background, For reading too much reducing
-the contrast a little bit improves readability.
+the contrast a little bit improves readability.  
+## CSS3
+CSS3 has introduced an extra value for RGB colors to
+indicate opacity which is known as RGBA, also allows you to specify colors as HSL values,
+with an optional opacity value. It is known as HSLA.
 
