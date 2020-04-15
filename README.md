@@ -2,15 +2,16 @@
 [My Github Profile](https://github.com/mahmoudzeidan10)
 ## My Name is Mahmoud Zeidan. I studied Civil Engineering at Yarmouk University, I Graduated in Sep 2019 and iam eager to learn software development because programming is the languge of the future, so i  can learn new skill and change my career path.
 
-### WEB PAGE Contents
-| Page                         | Link         |
-| :----------:                 | :----------: |
-|1            | [Mastering-Markdown](https://mahmoudzeidan10.github.io/learning-journal/Mastering-Markdown)
-|2            | [Structure web pages with HTML](https://mahmoudzeidan10.github.io/learning-journal/Structure-web-pages-HTML)
-| 3           | [Version-Control](https://mahmoudzeidan10.github.io/learning-journal/Version-Control)  
-| 4               | [Web with CSS](https://mahmoudzeidan10.github.io/learning-journal/Design-web-css) |
-| 5               | [Dynamic web pages with JavaScript](https://mahmoudzeidan10.github.io/learning-journal/Dynamic-Webpage-js)] |
-| 6           |[Computer Architecture and Logic](https://mahmoudzeidan10.github.io/learning-journal/Computer-Architecture-Logic) |
+# WebPage Contents
+|Page| Link 
+|   :----------: | :----------:    |
+| 1  | [Mastering-Markdown](https://mahmoudzeidan10.github.io/learning-journal/Mastering-Markdown)  
+|2   |[Structure web pages with HTML](https://mahmoudzeidan10.github.io/learning-journal/Structure-web-pages-HTML) 
+|3    |[Version-Control](https://mahmoudzeidan10.github.io/learning-journal/Version-Control)
+|4    |[Web with CSS](https://mahmoudzeidan10.github.io/learning-journal/Design-web-css)
+|5    |[Dynamic web pages with JavaScript](https://mahmoudzeidan10.github.io/learning-journal/Dynamic-Webpage-js)
+|6    |[Computer Architecture and Logic](https://mahmoudzeidan10.github.io/learning-journal/Computer-Architecture-Logic) 
+|    |
 
 ### Grouth Mindset
 ![Grouth Mindset](https://penstripe.co.uk/wp-content/uploads/2019/09/1.png)
